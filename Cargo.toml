@@ -1,0 +1,10 @@
+[package]
+name = "ternary-rack"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+
+[lib]
+name = "ternary_rack"
+
+[dependencies]
