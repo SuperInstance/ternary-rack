@@ -221,3 +221,15 @@ Any processing step can be wrapped as a `Room` and patched into the rack.
 ## License
 
 MIT
+
+## See Also
+- **ternary-wave** — related
+- **ternary-bite** — related
+- **ternary-envelope** — related
+- **ternary-echo** — related
+- **ternary-pan** — related
+- **ternary-mixer** — related
+- **ternary-vu** — related
+- **ternary-gate** — related
+- **ternary-sampler** — related
+
